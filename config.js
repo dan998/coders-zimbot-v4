@@ -41,8 +41,8 @@ global.owner = ['27721753314']
 global.premium = ['27721753314']
 global.botname = 'HIDEKI YASHIDA'
 global.ownername = 'MR LLOYD'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
+global.group1 = 'https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4'
+global.group2 = 'https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4'
 global.packname = 'ZIM BOT INC'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -72,7 +72,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait you horny bitch Im currently processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {

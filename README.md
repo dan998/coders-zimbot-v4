@@ -45,9 +45,9 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v3
+git clone https://github.com/dan998/coders-zimbot-v4/
  
-cd zimbot-v3
+cd coders-zimbot-v4
 
 npm install
 
@@ -57,7 +57,7 @@ rm -r session.json
 
 npm start
 
-echo scan the qr code and enjoy bot
+echo scan the qr code and enjoy bot from the Coding Family
 
 ```
 

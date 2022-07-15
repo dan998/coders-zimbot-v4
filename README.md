@@ -6,7 +6,7 @@
  </a>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
+<img src="https://imgur.com/gallery/jTTXKfC.gif" alt="animated"  />
 </p>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
@@ -72,4 +72,3 @@ echo scan the qr code and enjoy bot from the Coding Family
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- 

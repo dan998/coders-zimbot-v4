@@ -11,13 +11,13 @@
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
+> A Fully PRECIOUS COOL BOT BY DAN MAFFIA <br>
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lloyd4565/zimbot-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dan998/coders-zimbot-v4)
 
 ## BUILD PACKS
 
@@ -30,7 +30,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zimbot-v3-QR?v=1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
- ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
+ ##  > THIS BOT RECODED BY CODING FAMILY CODERS-ZIM BOT INC 
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION

@@ -6,7 +6,7 @@
  </a>
 </p>
 <p align="center">
-<img src="https://imgur.com/gallery/FuLHPw2.gif" alt="animated"  />
+<img src="https://user-images.githubusercontent.com/88751177/179375071-d622eb8b-bfc4-4bf1-9b20-ba60ef7b3607.gif" alt="animated"  />
 </p>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)

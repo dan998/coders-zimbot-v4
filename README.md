@@ -1,4 +1,4 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+do[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 
 # CODERS-ZIM BOT
@@ -71,4 +71,4 @@ echo scan the qr code and enjoy bot from the Coding Family
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
 
 
-# > THANKS FOR CHOOSING Coders-zimbot WE APPRECIATE YOU FOR YOUR SUPPORT
+#> THANKS FOR CHOOSING Coders-zimbot WE APPRECIATE YOU FOR YOUR SUPPORT

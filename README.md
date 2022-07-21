@@ -68,7 +68,7 @@ echo scan the qr code and enjoy bot from the Coding Family
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27631874244)
 
 
 #> THANKS FOR CHOOSING Coders-zimbot WE APPRECIATE YOU FOR YOUR SUPPORT
